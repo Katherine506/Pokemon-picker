@@ -1,0 +1,38 @@
+/** HEADER STYLES **/
+
+.navbar {
+	background-color: #FF0000;
+}
+
+.nav-link {
+	color: #FFFFFF;
+}
+
+.nav-link:hover {
+	color: #808080;
+}
+
+.logo {
+	width: 40px;
+    height: 40px;
+}
+
+/** CONTENT STYLES **/
+.pokemon-list {
+	max-height: 40rem;
+	overflow: auto;
+}
+
+.pokemon-element {
+	display: flex;
+	justify-content: space-between;
+
+}
+
+.pokemon-element .btn {
+	margin-left: 25px;
+}
+
+
+
+/** MODAL STYLES **/
